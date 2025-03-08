@@ -2,12 +2,12 @@
 
 # Diploma Thesis  
   
-### Basic Principles of Federated Learning Using Neural Networks
+### Basic Principles of Federated Learning Using Convolutional Neural Networks
 
 the name of the thesis should be a short version for those questions
 
 #### **Main Question:**  
-**How does the choice of aggregation method (FedAvg, FedProx, FedMA) affect the model performance among different architectues in federated learning compared to the centralized approach?**  
+**How does the choice of aggregation method (FedAvg, FedProx, FedMA) affect the model performance in federated learning compared to the centralized approach?**  
 
 #### **Additional Questions:**  
 1. How does federated learning perform compared to centralized learning on KPE tasks under different data distribution scenarios (IID, Non-IID)?  
