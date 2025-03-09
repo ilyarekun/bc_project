@@ -111,12 +111,15 @@ ResNet-18 has **18 layers** (including skip connections):
 
 
 #### **Datasets for Fine-Tuning on Medical Data**  
+
+
+#### Most likely 1st one
+
 | **Dataset**         | **Task**                     | **Size**      | **Link**                                                                 |  
 |----------------------|------------------------------|---------------|--------------------------------------------------------------------------|  
+| **COVIDx**          | COVID-19 detection           | 13,975 images  | [COVIDx](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md) |  
 | **CheXpert**         | Chest X-ray classification   | 224,316 images | [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)     |  
 | **ISIC**            | Skin lesion classification   | 25,331 images  | [ISIC](https://www.isic-archive.com)                                    |  
-| **BraTS**           | Brain tumor segmentation     | 3D MRI scans   | [BraTS](https://www.med.upenn.edu/cbica/brats2021/data.html)            |  
-| **COVIDx**          | COVID-19 detection           | 13,975 images  | [COVIDx](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md) |  
 | **NIH ChestX-ray14**| Thoracic disease detection   | 112,120 images | [NIH](https://nihcc.app.box.com/v/ChestXray-NIHCC)                      |  
 
 ---
@@ -159,12 +162,12 @@ ResNet-18 has **18 layers** (including skip connections):
 
 | Aggregation methods                                                          | metrics   | IID    | Non-IID |
 | ---------------------------------------------------------------------------- | --------- | ------ | ------- |
-| 1. [Centralized Learning](#centralized-learning)                             | Accuracy  | values | values  |
-|                                                                              | F1        | values | values  |
-|                                                                              | Recall    | values | values  |
-|                                                                              | Precision | values | values  |
-|                                                                              | metrics   | values | values  |
-|                                                                              | metrics   | values | values  |
+| 1. [Centralized Learning](#centralized-learning)                             | Accuracy  | values | -       |
+|                                                                              | F1        | values | -       |
+|                                                                              | Recall    | values | -       |
+|                                                                              | Precision | values | -       |
+|                                                                              | metrics   | values | -       |
+|                                                                              | metrics   | values | -       |
 | 2. [FedAvg (Federated Averaging)](#fedavg-federated-averaging)               | Accuracy  | values | values  |
 |                                                                              | F1        | values | values  |
 |                                                                              | Recall    | values | values  |
@@ -177,12 +180,12 @@ ResNet-18 has **18 layers** (including skip connections):
 |                                                                              | Precision | values | values  |
 |                                                                              | metrics   | values | values  |
 |                                                                              | metrics   | values | values  |
-| 4. [FedMA (Federated Matched Averaging)](#fedma-federated-matched-averaging) | Accuracy  | values | -  |
-|                                                                              | F1        | values | -  |
-|                                                                              | Recall    | values | -  |
-|                                                                              | Precision | values | -  |
-|                                                                              | metrics   | values | -  |
-|                                                                              | metrics   | values | -  |
+| 4. [FedMA (Federated Matched Averaging)](#fedma-federated-matched-averaging) | Accuracy  | values | values  |
+|                                                                              | F1        | values | values  |
+|                                                                              | Recall    | values | values  |
+|                                                                              | Precision | values | values  |
+|                                                                              | metrics   | values | values  |
+|                                                                              | metrics   | values | values  |
 
 
 ### What Will Be Evaluated in the Experiments  
