@@ -2,3 +2,5 @@ irjob1.slurm
 error.log
 output.log
 data/
+rr.md
+irjob2.slurm
