@@ -74,7 +74,7 @@ class BrainCNN(nn.Module):
         out = self.fc_layers(out)
         return out
 
-    def train_model(self, train_loader, valid_loader, num_epochs=50, patience=6, delta=0.001, learning_rate=0.001, save_path="./braincnn_prototype.weights"):
+    def train_model(self, train_loader, valid_loader, num_epochs=50, patience=6, delta=0.001, learning_rate=0.001, weight_decay = 0.001, save_path="./braincnn_prototype.weights"):
         """
         Метод для обучения модели BrainCNN.
         
@@ -103,7 +103,7 @@ class BrainCNN(nn.Module):
         
         # Инициализация критерия, оптимизатора и ранней остановки
         criterion = nn.CrossEntropyLoss()
-        optimizer = optim.SGD(self.parameters(), lr=learning_rate, momentum=0.9, weight_decay=0.001)
+        optimizer = optim.SGD(self.parameters(), lr=learning_rate, momentum=0.9, weight_decay=weight_decay)
         early_stopping = EarlyStopping(patience=patience, delta=delta)
         
         # Метрики

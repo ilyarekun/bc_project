@@ -4,3 +4,4 @@ output.log
 data/
 rr.md
 irjob2.slurm
+centralized-learning/notebooks/braincnn_prototype.weights
