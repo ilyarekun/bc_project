@@ -1,0 +1,252 @@
+Round 1:
+  Validation Loss: 1.3858
+  Accuracy: 0.2849
+  Precision: 0.0712
+  Recall: 0.2500
+  F1 Score: 0.1109
+Round 2:
+  Validation Loss: 1.3350
+  Accuracy: 0.3611
+  Precision: 0.3225
+  Recall: 0.3475
+  F1 Score: 0.2527
+Round 3:
+  Validation Loss: 1.4894
+  Accuracy: 0.4152
+  Precision: 0.3602
+  Recall: 0.3964
+  F1 Score: 0.3155
+Round 4:
+  Validation Loss: 1.5810
+  Accuracy: 0.4694
+  Precision: 0.4626
+  Recall: 0.4530
+  F1 Score: 0.3970
+Round 5:
+  Validation Loss: 1.4584
+  Accuracy: 0.5442
+  Precision: 0.5805
+  Recall: 0.5286
+  F1 Score: 0.4979
+Round 6:
+  Validation Loss: 1.3887
+  Accuracy: 0.5655
+  Precision: 0.6082
+  Recall: 0.5523
+  F1 Score: 0.5321
+Round 7:
+  Validation Loss: 1.1998
+  Accuracy: 0.6083
+  Precision: 0.6418
+  Recall: 0.5964
+  F1 Score: 0.5821
+Round 8:
+  Validation Loss: 1.2368
+  Accuracy: 0.6225
+  Precision: 0.6677
+  Recall: 0.6105
+  F1 Score: 0.5977
+Round 9:
+  Validation Loss: 1.1050
+  Accuracy: 0.6588
+  Precision: 0.6952
+  Recall: 0.6478
+  F1 Score: 0.6380
+Round 10:
+  Validation Loss: 1.0276
+  Accuracy: 0.6667
+  Precision: 0.7066
+  Recall: 0.6556
+  F1 Score: 0.6433
+Round 11:
+  Validation Loss: 0.9135
+  Accuracy: 0.6994
+  Precision: 0.7281
+  Recall: 0.6882
+  F1 Score: 0.6747
+Round 12:
+  Validation Loss: 0.8743
+  Accuracy: 0.7058
+  Precision: 0.7371
+  Recall: 0.6943
+  F1 Score: 0.6822
+Round 13:
+  Validation Loss: 0.7998
+  Accuracy: 0.7236
+  Precision: 0.7544
+  Recall: 0.7115
+  F1 Score: 0.6978
+Round 14:
+  Validation Loss: 0.6676
+  Accuracy: 0.7756
+  Precision: 0.7893
+  Recall: 0.7668
+  F1 Score: 0.7637
+Round 15:
+  Validation Loss: 0.7147
+  Accuracy: 0.7514
+  Precision: 0.7858
+  Recall: 0.7409
+  F1 Score: 0.7315
+Round 16:
+  Validation Loss: 0.6513
+  Accuracy: 0.7707
+  Precision: 0.8079
+  Recall: 0.7592
+  F1 Score: 0.7451
+Round 17:
+  Validation Loss: 0.5889
+  Accuracy: 0.7870
+  Precision: 0.8105
+  Recall: 0.7770
+  F1 Score: 0.7681
+Round 18:
+  Validation Loss: 0.5202
+  Accuracy: 0.8098
+  Precision: 0.8247
+  Recall: 0.8012
+  F1 Score: 0.7965
+Round 19:
+  Validation Loss: 0.4749
+  Accuracy: 0.8312
+  Precision: 0.8370
+  Recall: 0.8250
+  F1 Score: 0.8234
+Round 20:
+  Validation Loss: 0.4114
+  Accuracy: 0.8490
+  Precision: 0.8496
+  Recall: 0.8420
+  F1 Score: 0.8403
+Round 21:
+  Validation Loss: 0.3781
+  Accuracy: 0.8561
+  Precision: 0.8571
+  Recall: 0.8491
+  F1 Score: 0.8478
+Round 22:
+  Validation Loss: 0.3449
+  Accuracy: 0.8661
+  Precision: 0.8633
+  Recall: 0.8600
+  F1 Score: 0.8590
+Round 23:
+  Validation Loss: 0.3457
+  Accuracy: 0.8682
+  Precision: 0.8679
+  Recall: 0.8616
+  F1 Score: 0.8603
+Round 24:
+  Validation Loss: 0.3302
+  Accuracy: 0.8725
+  Precision: 0.8695
+  Recall: 0.8665
+  F1 Score: 0.8655
+Round 25:
+  Validation Loss: 0.3092
+  Accuracy: 0.8818
+  Precision: 0.8796
+  Recall: 0.8755
+  F1 Score: 0.8745
+Round 26:
+  Validation Loss: 0.2950
+  Accuracy: 0.8917
+  Precision: 0.8886
+  Recall: 0.8857
+  F1 Score: 0.8850
+Round 27:
+  Validation Loss: 0.2926
+  Accuracy: 0.8882
+  Precision: 0.8861
+  Recall: 0.8815
+  F1 Score: 0.8806
+Round 28:
+  Validation Loss: 0.2813
+  Accuracy: 0.8925
+  Precision: 0.8901
+  Recall: 0.8857
+  F1 Score: 0.8847
+Round 29:
+  Validation Loss: 0.2508
+  Accuracy: 0.9060
+  Precision: 0.9025
+  Recall: 0.8999
+  F1 Score: 0.8993
+Round 30:
+  Validation Loss: 0.2444
+  Accuracy: 0.9095
+  Precision: 0.9049
+  Recall: 0.9042
+  F1 Score: 0.9038
+Round 31:
+  Validation Loss: 0.2461
+  Accuracy: 0.9074
+  Precision: 0.9042
+  Recall: 0.9019
+  F1 Score: 0.9015
+Round 32:
+  Validation Loss: 0.2393
+  Accuracy: 0.9117
+  Precision: 0.9082
+  Recall: 0.9057
+  F1 Score: 0.9052
+Round 33:
+  Validation Loss: 0.2243
+  Accuracy: 0.9152
+  Precision: 0.9120
+  Recall: 0.9097
+  F1 Score: 0.9093
+Round 34:
+  Validation Loss: 0.2152
+  Accuracy: 0.9238
+  Precision: 0.9214
+  Recall: 0.9185
+  F1 Score: 0.9184
+Round 35:
+  Validation Loss: 0.2140
+  Accuracy: 0.9209
+  Precision: 0.9176
+  Recall: 0.9157
+  F1 Score: 0.9154
+Round 36:
+  Validation Loss: 0.2040
+  Accuracy: 0.9252
+  Precision: 0.9218
+  Recall: 0.9199
+  F1 Score: 0.9198
+Round 37:
+  Validation Loss: 0.2105
+  Accuracy: 0.9217
+  Precision: 0.9189
+  Recall: 0.9161
+  F1 Score: 0.9160
+Round 38:
+  Validation Loss: 0.2052
+  Accuracy: 0.9266
+  Precision: 0.9233
+  Recall: 0.9215
+  F1 Score: 0.9214
+Round 39:
+  Validation Loss: 0.2001
+  Accuracy: 0.9288
+  Precision: 0.9261
+  Recall: 0.9238
+  F1 Score: 0.9238
+Round 40:
+  Validation Loss: 0.1985
+  Accuracy: 0.9281
+  Precision: 0.9248
+  Recall: 0.9231
+  F1 Score: 0.9230
+Round 41:
+  Validation Loss: 0.1979
+  Accuracy: 0.9288
+  Precision: 0.9257
+  Recall: 0.9238
+  F1 Score: 0.9237
+
+Test Metrics:
+  Accuracy: 0.9291
+  Precision: 0.9260
+  Recall: 0.9257
+  F1 Score: 0.9253
