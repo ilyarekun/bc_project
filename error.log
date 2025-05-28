@@ -22,16 +22,16 @@
 [I 2025-05-26 22:11:00.661 ServerApp] The port 8891 is already in use, trying another port.
 [I 2025-05-26 22:11:00.661 ServerApp] Serving notebooks from local directory: /home/ir739wb/ilyarekun/bc_project/centralized-learning
 [I 2025-05-26 22:11:00.661 ServerApp] Jupyter Server 2.15.0 is running at:
-[I 2025-05-26 22:11:00.661 ServerApp] http://DGX:8892/tree?token=c7c9e55faaf9f381de7ef7cbb1c953f94c883fd6eae99fdc
-[I 2025-05-26 22:11:00.661 ServerApp]     http://127.0.0.1:8892/tree?token=c7c9e55faaf9f381de7ef7cbb1c953f94c883fd6eae99fdc
+[I 2025-05-26 22:11:00.661 ServerApp] http://DGX:8892/tree?token=
+[I 2025-05-26 22:11:00.661 ServerApp]     http://127.0.0.1:8892/tree?token=
 [I 2025-05-26 22:11:00.661 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [C 2025-05-26 22:11:00.663 ServerApp] 
     
     To access the server, open this file in a browser:
         file:///home/ir739wb/.local/share/jupyter/runtime/jpserver-4175004-open.html
     Or copy and paste one of these URLs:
-        http://DGX:8892/tree?token=c7c9e55faaf9f381de7ef7cbb1c953f94c883fd6eae99fdc
-        http://127.0.0.1:8892/tree?token=c7c9e55faaf9f381de7ef7cbb1c953f94c883fd6eae99fdc
+        http://DGX:8892/tree?token=
+        http://127.0.0.1:8892/tree?token=
 [I 2025-05-26 22:11:00.684 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
 [W 2025-05-26 22:11:11.261 ServerApp] wrote error: 'Forbidden'
     Traceback (most recent call last):
